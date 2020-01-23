@@ -1,0 +1,20 @@
+	#tabla{
+			width: 250px;
+			margin: 130px auto;
+			background-color: blue;
+			clear: both;
+		}
+
+		#datos{
+			margin: 0 0 15px 25px;
+		}
+
+		#btns{
+			margin: 0 0 15px 25px;	
+
+			}
+			#imagen{
+				float: left;
+			}
+
+		
